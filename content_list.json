@@ -1,0 +1,835 @@
+{
+    "content": [{
+        "content_id": "UID1",
+        "content_title": "Financial Independence: Strategies and Tips for Young Adults",
+        "content_url": "www.content.com/uid1",
+        "content_topic": ["financial"],
+        "content_keyword": [
+            "financial independence", 
+            "strategies", 
+            "tips" 
+           ]
+      },
+      {
+        "content_id": "UID2",
+        "content_title": "Teen Investing: Wealth Building, Investment Basics",
+        "content_url": "www.content.com/uid2",
+        "content_topic": ["financial"],
+        "content_keyword": [
+          "investing",
+          "wealth building",
+          "investment"
+        ]
+      },
+      {
+        "content_id": "UID3",
+        "content_title": "How to Manage Your Money by Mastering a Budget",
+        "content_url": "www.content.com/uid3",
+        "content_topic": ["financial"],
+        "content_keyword": [
+          "budgeting",
+          "money management",
+          "personal finance",
+          "budget"
+        ]
+      },
+      {
+        "content_id": "UID4",
+        "content_title": "Everything You Were Afraid to Ask About Student Loans",
+        "content_url": "www.content.com/uid4",
+        "content_topic": ["financial"],
+        "content_keyword": [
+          "student loans",
+          "repayment",
+          "college",
+          "debt",
+          "education"
+        ]
+      },
+      {
+        "content_id": "UID5",
+        "content_title": "Credit Card Tips: Responsible Usage and Credit Management",
+        "content_url": "www.content.com/uid5",
+        "content_topic": ["financial"],
+        "content_keyword": [
+          "credit card",
+          "credit score",
+          "personal finance",
+          "credit"
+        ]
+      },
+      {
+        "content_id": "UID6",
+        "content_title": "Credit Score Essentials",
+        "content_url": "www.content.com/uid6",
+        "content_topic": ["financial"],
+        "content_keyword": [
+          "credit score",
+          "building",
+          "credit history"
+        ]
+      },
+      {
+        "content_id": "UID8",
+        "content_title": "Gen Z Entrepreneurship: Making Great Ideas Profitable Ventures",
+        "content_url": "www.content.com/uid8",
+        "content_topic": ["financial"],
+        "content_keyword": [
+          "entrepreneure",
+          "profitable",
+          "ideas",
+          "business"
+        ]
+      },
+      {
+        "content_id": "UID9",
+        "content_title": "What is the Gig Economy?",
+        "content_url": "www.content.com/uid9",
+        "content_topic": ["financial"],
+        "content_keyword": [
+          "gig economy",
+          "earnings",
+          "digital age",
+          "opportunities",
+          "freelance"
+        ]
+      },
+      {
+        "content_id": "UID10",
+        "content_title": "Buying Your First Car",
+        "content_url": "www.content.com/uid10",
+        "content_topic": ["financial"],
+        "content_keyword": [
+          "car loan",
+          "financing",
+          "first car",
+          "negotiating",
+          "saving"
+        ]
+      },
+      {
+        "content_id": "UID12",
+        "content_title": "Tax Basics: Personal Finance for Beginners",
+        "content_url": "www.content.com/uid12",
+        "content_topic": ["financial"],
+        "content_keyword": [
+          "taxes",
+          "personal finance",
+          "beginners",
+          "tax filing"
+        ]
+      },
+      {
+        "content_id": "UID14",
+        "content_title": "Exploring Career Paths: Finding Your Passion",
+        "content_url": "www.content.com/uid14",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "career paths",
+          "passion",
+          "job options",
+          "exploration",
+          "vocational"
+        ]
+      },
+      {
+        "content_id": "UID15",
+        "content_title": "How to Finad an Internship: Tips, Networking, and Professional Growth",
+        "content_url": "www.content.com/uid15",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "internship success",
+          "tips",
+          "networking",
+          "professional growth",
+          "experiential learning"
+        ]
+      },
+      {
+        "content_id": "UID16",
+        "content_url": "www.content.com/uid16",
+        "content_title": "Building a Winning Resume",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "resume building",
+          "skills",
+          "experience",
+          "CV",
+          "job applications"
+        ]
+      },
+      {
+        "content_id": "UID17",
+        "content_title": "Navigating College Applications: Essays, Recommendations, and Managaing Deadlines",
+        "content_url": "www.content.com/uid17",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "college", 
+          "applications",
+          "essays",
+          "recommendations",
+          "deadlines",
+          "admissions"
+        ]
+      },
+      {
+        "content_id": "UID18",
+        "content_title": "Personal Branding: Online Presence and Professional Identity",
+        "content_url": "www.content.com/uid18",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "personal branding",
+          "online presence",
+          "professional identity",
+          "reputation",
+          "networking"
+        ]
+      },
+      {
+        "content_id": "UID19",
+        "content_title": "Finding Part-Time Jobs",
+        "content_url": "www.content.com/uid19",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "part-time jobs",
+          "flexible work",
+          "student employment",
+          "financial independence",
+          "work experience"
+        ]
+      },
+      {
+        "content_id": "UID21",
+        "content_title": "Workplace Etiquette: Professional Behavior, Office Culture",
+        "content_url": "www.content.com/uid21",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "workplace", 
+          "etiquette",
+          "professional",
+          "culture",
+          "workplace",
+          "interpersonal skills"
+        ]
+      },
+      {
+        "content_id":"UID23",
+        "content_title": "Networking Strategies: Building Connections for Career Advancement",
+        "content_url": "www.content.com/uid23",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "networking", 
+          "strategies",
+          "connections",
+          "career",
+          "professional",
+          "relationships",
+          "mentorship"
+        ]
+      },
+      {
+        "content_id": "UID24",
+        "content_title": "Job Search Tips: Job Boards, Applications, and Interviews",
+        "content_url": "www.content.com/uid24",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "job search",
+          "applications",
+          "interviews",
+          "job boards"
+        ]
+      },
+      {
+        "content_id": "UID28",
+        "content_title": "Navigating College Life: Time Management, Study Skills, and Social Balance",
+        "content_url": "www.content.com/uid28",
+        "content_topic": ["occupational"],
+        "content_keyword": [
+          "college life",
+          "time management",
+          "study skills",
+          "social balance",
+          "academic success"
+        ]
+      },
+      {
+        "content_id": "UID33",
+        "content_title": "How to Make Connections for Meaningful Relationships",
+        "content_url": "www.content.com/uid33",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "socializing",
+          "connections",
+          "relationships",
+          "friendships",
+          "communication"
+        ]
+      },
+      {
+        "content_id": "UID34",
+        "content_title": "Developing Effective Communication Skills",
+        "content_url": "www.content.com/uid34",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "communication skills",
+          "listening",
+          "verbal",
+          "non-verbal",
+          "expressing ideas"
+        ]
+      },
+      {
+        "content_id": "UID35",
+        "content_title": "Building Healthy Relationships: Trust, Boundaries, and Conflict Resolution",
+        "content_url": "www.content.com/uid35",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "healthy relationships",
+          "trust",
+          "boundaries",
+          "conflict resolution",
+          "emotional intelligence"
+        ]
+      },
+      {
+        "content_id": "UID36",
+        "content_title": "Overcoming Social Anxiety: Coping Strategies to Build Self-Confidence",
+        "content_url": "www.content.com/uid36",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "social anxiety",
+          "coping strategies",
+          "self-confidence",
+          "social situations",
+          "mental health"
+        ]
+      },
+      {
+        "content_id": "UID37",
+        "content_title": "Digital Etiquette: Online Communication",
+        "content_url": "www.content.com/uid37",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "digital etiquette",
+          "online communication",
+          "netiquette",
+          "social media etiquette",
+          "online behavior"
+        ]
+      },
+      {
+        "content_id": "UID38",
+        "content_title": "Managing Social Media: Privacy, Online Reputation, and Mental Well-being",
+        "content_url": "www.content.com/uid38",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "managing social media",
+          "privacy",
+          "online reputation",
+          "mental well-being",
+          "mental health",
+          "digital detox"
+        ]
+      },
+      {
+        "content_id": "UID40",
+        "content_title": "Understanding Cultural Diversity: Diversity, Equity, and Inclusion",
+        "content_url": "www.content.com/uid40",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "culture", 
+          "diversity",
+          "inclusion",
+          "tolerance",
+          "global awareness",
+          "dei"
+        ]
+      },
+      {
+        "content_id": "UID47",
+        "content_title": "Mental Health and Self-Care: Stress Management, Emotional Well-being",
+        "content_url": "www.content.com/uid47",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "mental health",
+          "self-care",
+          "stress management",
+          "emotional well-being",
+          "self-care practices"
+        ]
+      },
+      {
+        "content_id": "UID49",
+        "content_title": "Conflict Resolution: Negotiation, Mediation, and Problem-Solving",
+        "content_url": "www.content.com/uid49",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "conflict resolution",
+          "negotiation",
+          "mediation",
+          "problem-solving",
+          "resolution strategies"
+        ]
+      },
+      {
+        "content_id": "UID50",
+        "content_title": "Effective Public Speaking: Confidence, Articulation, and Audience Engagement",
+        "content_url": "www.content.com/uid50",
+        "content_topic": ["social"],
+        "content_keyword": [
+          "public speaking",
+          "confidence",
+          "articulation",
+          "audience engagement",
+          "presentation skills"
+        ]
+      },
+      {
+        "content_id": "UID51",
+        "content_title": "Understanding Emotions: Recognizing, Expressing, and Managing",
+        "content_url": "www.content.com/uid51",
+        "content_topic": ["emotional"],
+        "content_keyword": [
+          "emotions",
+          "recognition",
+          "expression",
+          "management",
+          "emotional intelligence"
+        ]
+      },
+      {
+        "content_id": "UID52",
+        "content_title": "Coping with Stress: Strategies, Relaxation Techniques, and Self-Care",
+        "content_url": "www.content.com/uid52",
+        "content_topic": ["emotional"],
+        "content_keyword": [
+          "stress coping",
+          "strategies",
+          "relaxation techniques",
+          "self-care",
+          "stress management"
+        ]
+      },
+      {
+        "content_id": "UID53",
+        "content_title": "Building Resilience",
+        "content_url": "www.content.com/uid53",
+        "content_topic": ["emotional"],
+        "content_keyword": [
+          "resilience",
+          "challenges",
+          "mental toughness",
+          "adaptability",
+          "personal growth"
+        ]
+      },
+      {
+        "content_id": "UID57",
+        "content_title": "Overcoming Anxiety: Techniques, Mindfulness, and Breathing Exercises",
+        "content_url": "www.content.com/uid57",
+        "content_topic": ["emotional"],
+        "content_keyword": [
+          "anxiety",
+          "techniques",
+          "mindfulness",
+          "breathing exercises",
+          "anxiety management"
+        ]
+      },
+      {
+        "content_id": "UID58",
+        "content_title": "Cultivating Gratitude Through Appreciation, Mindfulness, and Positivity",
+        "content_url": "www.content.com/uid58",
+        "content_topic": ["emotional"],
+        "content_keyword": [
+          "gratitude",
+          "appreciation",
+          "mindfulness",
+          "positivity",
+          "well-being"
+        ]
+      },
+      {
+        "content_id": "UID60",
+        "content_title": "Exploring Inner Peace: Meditation, Mindfulness, and Serenity",
+        "content_url": "www.content.com/uid60",
+        "content_topic": ["spiritual"],
+        "content_keyword": [
+          "inner peace",
+          "meditation",
+          "mindfulness",
+          "serenity",
+          "spiritual growth"
+        ]
+      },
+      {
+        "content_id": "UID61",
+        "content_title": "Cultivating Gratitude Every Day",
+        "content_url": "www.content.com/uid61",
+        "content_topic": ["spiritual"],
+        "content_keyword": [
+          "gratitude",
+          "appreciation",
+          "abundance",
+          "thankfulness",
+          "practice"
+        ]
+      },
+      {
+        "content_id": "UID62",
+        "content_title": "Finding Meaning in Life",
+        "content_url": "www.content.com/ui62",
+        "content_topic": ["spiritual"],
+        "content_keyword": [
+          "meaning of life",
+          "purpose",
+          "existential questions",
+          "fulfillment",
+          "personal growth"
+        ]
+      },
+      {
+        "content_id": "UID63",
+        "content_title": "The Importance of Practicing Self-Reflection",
+        "content_url": "www.content.com/uid63",
+        "content_topic": ["spiritual"],
+        "content_keyword": [
+          "self-reflection",
+          "introspection",
+          "self-discovery",
+          "soul searching",
+          "self-awareness"
+        ]
+      },
+      {
+        "content_id": "UID65",
+        "content_title": "Exploring Different Spiritual Traditions: Religions, Beliefs, and Interfaith Dialogue",
+        "content_url": "www.content.com/uid65",
+        "content_topic": ["spiritual"],
+        "content_keyword": [
+          "spiritual traditions",
+          "religions",
+          "beliefs",
+          "interfaith dialogue",
+          "religious diversity"
+        ]
+      },
+      {
+        "content_id": "UID66",
+        "content_title": "Building Empathy and Compassion",
+        "content_url": "www.content.com/uid66",
+        "content_topic": ["spiritual"],
+        "content_keyword": [
+          "compassion",
+          "kindness",
+          "empathy",
+          "altruism",
+          "spiritual values"
+        ]
+      },
+      {
+        "content_id": "UID70",
+        "content_title": "Boosting Your Critical Thinking: Analytical Skills, Logic, and Problem-Solving",
+        "content_url": "www.content.com/uid70",
+        "content_topic": ["intellectual"],
+        "content_keyword": [
+          "critical thinking",
+          "analytical skills",
+          "logic",
+          "problem-solving",
+          "cognitive abilities"
+        ]
+      },
+      {
+        "content_id": "UID71",
+        "content_title": "Effective Study Habits: Time Management, Note-Taking, and Active Learning",
+        "content_url": "www.content.com/uid71",
+        "content_topic": ["intellectual"],
+        "content_keyword": [
+          "study habits",
+          "time management",
+          "note-taking",
+          "active learning",
+          "academic success"
+        ]
+      },
+      {
+        "content_id": "UID72",
+        "content_title": "How to be Creative: Imagination, Innovation, and Out-of-the-box Thinking",
+        "content_url": "www.content.com/uid72",
+        "content_topic": ["intellectual"],
+        "content_keyword": [
+          "creativity",
+          "imagination",
+          "innovation",
+          "ideas",
+          "originality"
+        ]
+      },
+      {
+        "content_id": "UID73",
+        "content_title": "Developing Information Literacy for Better Research",
+        "content_url": "www.content.com/uid73",
+        "content_topic": ["intellectual"],
+        "content_keyword": [
+          "information literacy",
+          "research",
+          "source evaluation",
+          "digital literacy",
+          "information retrieval"
+        ]
+      },
+      {
+        "content_id": "UID74",
+        "content_title": "The Art of Communication: Public Speaking, Writing, and Interpersonal Skills",
+        "content_url": "www.content.com/uid74",
+        "content_topic": ["intellectual"],
+        "content_keyword": [
+          "communication skills",
+          "public speaking",
+          "writing",
+          "interpersonal skills",
+          "effective expression"
+        ]
+      },
+      {
+        "content_id": "UID75",
+        "content_title": "Mastering Time Management: Productivity and Prioritization to Beat Procrastination",
+        "content_url": "www.content.com/uid75",
+        "content_topic": ["intellectual"],
+        "content_keyword": [
+          "time management",
+          "productivity",
+          "prioritization",
+          "procrastination",
+          "goal achievement"
+        ]
+      },
+      {
+        "content_id": "UID76",
+        "content_title": "Lifelong Learning: Self-Education, Continuous Growth, and Personal Development",
+        "content_url": "www.content.com/uid76",
+        "content_topic": ["intellectual"],
+        "content_keyword": [
+          "lifelong learning",
+          "self-education",
+          "continuous growth",
+          "personal development",
+          "knowledge acquisition"
+        ]
+      },
+      {
+        "content_id": "UID77",
+        "content_title": "The Power of Reading: Intellectual Stimulation, Knowledge Expansion, and Building Empathy",
+        "content_url": "www.content.com/uid77",
+        "content_topic": ["intellectual"],
+        "content_keyword": [
+          "reading",
+          "intellectual",
+          "knowledge",
+          "empathy",
+          "literary",
+          "exploration"
+        ]
+      },
+      {
+        "content_id": "UID80",
+        "content_title": "Effective Workout Routines for Beginners",
+        "content_url": "www.content.com/uid80",
+        "content_topic": ["physical"],
+        "content_keyword": [
+          "workout routines",
+          "fitness",
+          "exercise",
+          "beginners",
+          "healthy lifestyle"
+        ]
+      },
+      {
+        "content_id": "UID81",
+        "content_title": "Nutrition Tips to Support Your Physical Health",
+        "content_url": "www.content.com/uid81",
+        "content_topic": ["physical"],
+        "content_keyword": [
+          "nutrition",
+          "healthy eating",
+          "physical health",
+          "diet",
+          "wellness"
+        ]
+      },
+      {
+        "content_id": "UID82",
+        "content_title": "Strength Training for Muscle Development",
+        "content_url": "www.content.com/uid82",
+        "content_topic": ["physical"],
+        "content_keyword": [
+          "strength training",
+          "muscle development",
+          "weightlifting",
+          "resistance exercises",
+          "bodybuilding"
+        ]
+      },
+      {
+        "content_id": "UID83",
+        "content_title": "Cardiovascular Fitness: Enhancing Endurance and Stamina",
+        "content_url": "www.content.com/uid83",
+        "content_topic": ["physical"],
+        "content_keyword": [
+          "cardiovascular",
+          "fitness",
+          "endurance",
+          "stamina",
+          "aerobic exercises",
+          "heart health"
+        ]
+      },
+      {
+        "content_id": "UID84",
+        "content_title": "The Benefits of Yoga for Physical and Mental Well-being",
+        "content_url": "www.content.com/uid84",
+        "content_topic": ["physical"],
+        "content_keyword": [
+          "yoga",
+          "physical well-being",
+          "mental well-being",
+          "flexibility",
+          "stress relief"
+        ]
+      },
+      {
+        "content_id": "UID85",
+        "content_title": "Exploring Different Sports for Fun and Fitness",
+        "content_url": "www.content.com/uid85",
+        "content_topic": ["physical"],
+        "content_keyword": [
+          "sports",
+          "fitness",
+          "fun",
+          "team sports",
+          "individual sports"
+        ]
+      },
+      {
+        "content_id": "UID87",
+        "content_title": "Enjoying Outdoor Activities for an Active Lifestyle",
+        "content_url": "www.content.com/uid87",
+        "content_topic": ["physical"],
+        "content_keyword": [
+          "outdoor",
+          "activities",
+          "active lifestyle",
+          "hiking",
+          "biking",
+          "adventure",
+          "sports"
+        ]
+      },
+      {
+        "content_id": "UID90",
+        "content_title": "The Importance of Environmental Conservation",
+        "content_url": "www.content.com/uid90",
+        "content_topic": ["environmental"],
+        "content_keyword": [
+          "environmental conservation",
+          "sustainability",
+          "ecosystem",
+          "biodiversity",
+          "preservation"
+        ]
+      },
+      {
+        "content_id": "UID91",
+        "content_title": "Reducing Your Carbon Footprint Through Sustainable Lifestyle Choices",
+        "content_url": "www.content.com/uid91",
+        "content_topic": ["environmental"],
+        "content_keyword": [
+          "carbon footprint",
+          "sustainability",
+          "eco-friendly",
+          "renewable energy",
+          "green living"
+        ]
+      },
+      {
+        "content_id": "UID92",
+        "content_title": "Water Conservation: Preserving Earth's Most Vital Resource",
+        "content_url": "www.content.com/uid92",
+        "content_topic": ["environmental"],
+        "content_keyword": [
+          "water conservation",
+          "sustainable water management",
+          "water scarcity",
+          "water pollution",
+          "conservation techniques"
+        ]
+      },
+      {
+        "content_id": "UID93",
+        "content_title": "Promoting Recycling and Responsible Waste Management",
+        "content_url": "www.content.com/uid93",
+        "content_topic": ["environmental"],
+        "content_keyword": [
+          "recycling",
+          "waste management",
+          "circular economy",
+          "waste reduction",
+          "sustainable practices"
+        ]
+      },
+      {
+        "content_id": "UID94",
+        "content_title": "Protecting Endangered Species and Their Habitats",
+        "content_url": "www.content.com/uid94",
+        "content_topic": ["environmental"],
+        "content_keyword": [
+          "endangered species",
+          "wildlife",
+          "conservation",
+          "habitat preservation",
+          "biodiversity"
+        ]
+      },
+      {
+        "content_id": "UID95",
+        "content_title": "Renewable Energy: Shifting Towards a Sustainable Future",
+        "content_url": "www.content.com/uid95",
+        "content_topic": ["environmental"],
+        "content_keyword": [
+          "renewable energy",
+          "clean energy",
+          "solar power",
+          "wind energy",
+          "sustainable development"
+        ]
+      },
+      {
+        "content_id": "UID96",
+        "content_title": "The Impact of Deforestation and Forest Conservation",
+        "content_url": "www.content.com/uid96",
+        "content_topic": ["environmental"],
+        "content_keyword": [
+          "deforestation",
+          "forest conservation",
+          "reforestation",
+          "ecosystem destruction",
+          "climate change"
+        ]
+      },
+      {
+        "content_id": "UID97",
+        "content_title": "Creating a Healthy Home Environment: Tips for Indoor Air Quality and Safety",
+        "content_url": "www.content.com/uid97",
+        "content_topic": ["environmental"],
+        "content_keyword": [
+          "healthy",
+          "home",
+          "indoor",
+          "air quality",
+          "ventilation",
+          "chemical-free"
+        ]
+      }
+    ]
+  }
