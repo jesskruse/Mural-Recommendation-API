@@ -1,0 +1,820 @@
+[
+    {
+        "session": {
+            "id": "10001",
+            "call_time": "05/31/2023 3:30:00 PM",
+            "url": "/session/10001",
+            "tool": "Natural Language Toolkit (NLTK)"
+        },
+        "mural": {
+            "mural_id": "MURAL05202023000001",
+            "mural_url": "https://app.mural.co/invitation/mural/estherhan4738/1683766600872?sender=u51c7066dc5a395f39bbf4188&key=9ef3e1aa-bdc6-4ca0-baa9-95caa3c5fdcd",
+            "mural_topic": [
+                "Social",
+                "Emotional",
+                "Spiritual",
+                "Intellectual",
+                "Occupational",
+                "Environmental",
+                "Financial",
+                "Physical"
+            ],
+            "sticky_note": [
+                {
+                    "note_id": "0-1685223486498",
+                    "note_text": "I want to go to UW for UX!",
+                    "note_topic": "Intellectual",
+                    "note_keyword": [
+                        "want",
+                        "go",
+                        "uw",
+                        "ux",
+                        "college",
+                        "education",
+                        "career paths"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223488741",
+                    "note_text": "I want to become an expert in Figma",
+                    "note_topic": "Intellectual",
+                    "note_keyword": [
+                        "want",
+                        "become",
+                        "expert",
+                        "figma",
+                        "design",
+                        "skills",
+                        "software"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223493285",
+                    "note_text": "I should go to gym every day",
+                    "note_topic": "Physical",
+                    "note_keyword": [
+                        "go",
+                        "gym",
+                        "every",
+                        "day",
+                        "fitness",
+                        "health",
+                        "exercise"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223504603",
+                    "note_text": "I want to learn how to swim!",
+                    "note_topic": "Physical",
+                    "note_keyword": [
+                        "want",
+                        "learn",
+                        "swim",
+                        "swimming",
+                        "skill development",
+                        "water sports"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223514779",
+                    "note_text": "I need to recycle more!",
+                    "note_topic": "Environmental",
+                    "note_keyword": [
+                        "need",
+                        "recycle",
+                        "sustainability",
+                        "environmental awareness",
+                        "waste management"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223516615",
+                    "note_text": "I want to plant my own veggies",
+                    "note_topic": "Environmental",
+                    "note_keyword": [
+                        "want",
+                        "plant",
+                        "veggies",
+                        "gardening",
+                        "sustainability",
+                        "self-sufficiency"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223518785",
+                    "note_text": "I need to start investing my own money",
+                    "note_topic": "Financial",
+                    "note_keyword": [
+                        "need",
+                        "start",
+                        "investing",
+                        "money",
+                        "financial independence",
+                        "investing",
+                        "wealth building"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223521362",
+                    "note_text": "How do I save up for a car?",
+                    "note_topic": "Financial",
+                    "note_keyword": [
+                        "save",
+                        "car",
+                        "car loan",
+                        "financing",
+                        "saving"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223524232",
+                    "note_text": "I need an internship right now!",
+                    "note_topic": "Occupational",
+                    "note_keyword": [
+                        "need",
+                        "internship",
+                        "right",
+                        "career",
+                        "professional growth",
+                        "experiential learning"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223525999",
+                    "note_text": "I'm thinking about a job in Information Architecture",
+                    "note_topic": "Occupational",
+                    "note_keyword": [
+                        "thinking",
+                        "job",
+                        "information",
+                        "architecture",
+                        "career paths",
+                        "job options",
+                        "information technology"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223528303",
+                    "note_text": "I want more friends!",
+                    "note_topic": "Social",
+                    "note_keyword": [
+                        "want",
+                        "friends",
+                        "socializing",
+                        "relationships",
+                        "friendships"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223530185",
+                    "note_text": "I want to make more connections in UX",
+                    "note_topic": "Social",
+                    "note_keyword": [
+                        "want",
+                        "make",
+                        "connections",
+                        "ux",
+                        "networking",
+                        "professional growth",
+                        "UX community"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223532766",
+                    "note_text": "I want to have more joy",
+                    "note_topic": "Emotional",
+                    "note_keyword": [
+                        "want",
+                        "joy",
+                        "happiness",
+                        "positivity",
+                        "well-being"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223534731",
+                    "note_text": "I dunno",
+                    "note_topic": "Emotional",
+                    "note_keyword": [
+                        "dunno",
+                        "uncertainty",
+                        "decision-making",
+                        "exploration"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223546128",
+                    "note_text": "I want to meditate more",
+                    "note_topic": "Spiritual",
+                    "note_keyword": [
+                        "want",
+                        "meditate",
+                        "mindfulness",
+                        "relaxation techniques",
+                        "mental health"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223547864",
+                    "note_text": "I find out I enjoy listening to white noise when I study",
+                    "note_topic": "Spiritual",
+                    "note_keyword": [
+                        "find",
+                        "enjoy",
+                        "listening",
+                        "white",
+                        "noise",
+                        "study",
+                        "study skills",
+                        "focus",
+                        "productivity"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223653579",
+                    "note_text": "I miss my family",
+                    "note_topic": "Emotional",
+                    "note_keyword": [
+                        "miss",
+                        "family",
+                        "family",
+                        "relationships",
+                        "homesickness"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223696250",
+                    "note_text": "I want to know more about music that can help me relax",
+                    "note_topic": "Spiritual",
+                    "note_keyword": [
+                        "want",
+                        "know",
+                        "music",
+                        "help",
+                        "relax",
+                        "relaxation techniques",
+                        "stress management",
+                        "music therapy"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223771235",
+                    "note_text": "I get too nervous when talking to strangers",
+                    "note_topic": "Emotional",
+                    "note_keyword": [
+                        "get",
+                        "nervous",
+                        "talking",
+                        "strangers",
+                        "social anxiety",
+                        "communication skills",
+                        "confidence"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223798483",
+                    "note_text": "Taxonomy seems fun",
+                    "note_topic": "Intellectual",
+                    "note_keyword": [
+                        "taxonomy",
+                        "seems",
+                        "fun",
+                        "taxonomy",
+                        "organization",
+                        "categorization"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223808111",
+                    "note_text": "I want to practice my visual design skills",
+                    "note_topic": "Intellectual",
+                    "note_keyword": [
+                        "want",
+                        "practice",
+                        "visual",
+                        "design",
+                        "skills",
+                        "design",
+                        "skills",
+                        "creativity"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223831359",
+                    "note_text": "I need to stretch more",
+                    "note_topic": "Physical",
+                    "note_keyword": [
+                        "need",
+                        "stretch",
+                        "flexibility",
+                        "fitness",
+                        "exercise"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223843312",
+                    "note_text": "I want to do more outdoor exercises",
+                    "note_topic": "Physical",
+                    "note_keyword": [
+                        "want",
+                        "outdoor",
+                        "exercises",
+                        "outdoor activities",
+                        "fitness",
+                        "nature"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223864862",
+                    "note_text": "I want to try cycling to school",
+                    "note_topic": "Environmental",
+                    "note_keyword": [
+                        "want",
+                        "try",
+                        "cycling",
+                        "school",
+                        "cycling",
+                        "transportation",
+                        "fitness"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223884282",
+                    "note_text": "How to bookkeep better?",
+                    "note_topic": "Financial",
+                    "note_keyword": [
+                        "bookkeep",
+                        "better",
+                        "budgeting",
+                        "financial management",
+                        "record-keeping"
+                    ]
+                },
+                {
+                    "note_id": "0-1685223937288",
+                    "note_text": "How to make my resume unique?",
+                    "note_topic": "Occupational",
+                    "note_keyword": [
+                        "make",
+                        "resume",
+                        "unique",
+                        "resume building",
+                        "personal branding",
+                        "job applications"
+                    ]
+                },
+                {
+                    "note_id": "0-1685224006148",
+                    "note_text": "I want more honest comments on my portfolio",
+                    "note_topic": "Occupational",
+                    "note_keyword": [
+                        "want",
+                        "honest",
+                        "comments",
+                        "portfolio",
+                        "feedback",
+                        "portfolio review",
+                        "constructive criticism"
+                    ]
+                },
+                {
+                    "note_id": "0-1685224045320",
+                    "note_text": "How to start conversations with strangers?",
+                    "note_topic": "Social",
+                    "note_keyword": [
+                        "start",
+                        "conversations",
+                        "strangers",
+                        "communication skills",
+                        "networking",
+                        "socializing"
+                    ]
+                }
+            ],
+            "export": {
+                "export_id": "202300520120000",
+                "export_format": "json"
+            }
+        },
+        "recommendation": [
+            {
+                "content_id": "UID80",
+                "content_title": "Effective Workout Routines for Beginners",
+                "content_url": "www.content.com/uid80",
+                "content_keyword": [
+                    "workout routines",
+                    "fitness",
+                    "exercise",
+                    "beginners",
+                    "healthy lifestyle"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID83",
+                "content_title": "Cardiovascular Fitness: Enhancing Endurance and Stamina",
+                "content_url": "www.content.com/uid83",
+                "content_keyword": [
+                    "cardiovascular",
+                    "fitness",
+                    "endurance",
+                    "stamina",
+                    "aerobic exercises",
+                    "heart health"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID85",
+                "content_title": "Exploring Different Sports for Fun and Fitness",
+                "content_url": "www.content.com/uid85",
+                "content_keyword": [
+                    "sports",
+                    "fitness",
+                    "fun",
+                    "team sports",
+                    "individual sports"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID90",
+                "content_title": "The Importance of Environmental Conservation",
+                "content_url": "www.content.com/uid90",
+                "content_keyword": [
+                    "environmental conservation",
+                    "sustainability",
+                    "ecosystem",
+                    "biodiversity",
+                    "preservation"
+                ],
+                "content_topic": "environmental"
+            },
+            {
+                "content_id": "UID91",
+                "content_title": "Reducing Your Carbon Footprint Through Sustainable Lifestyle Choices",
+                "content_url": "www.content.com/uid91",
+                "content_keyword": [
+                    "carbon footprint",
+                    "sustainability",
+                    "eco-friendly",
+                    "renewable energy",
+                    "green living"
+                ],
+                "content_topic": "environmental"
+            },
+            {
+                "content_id": "UID93",
+                "content_title": "Promoting Recycling and Responsible Waste Management",
+                "content_url": "www.content.com/uid93",
+                "content_keyword": [
+                    "recycling",
+                    "waste management",
+                    "circular economy",
+                    "waste reduction",
+                    "sustainable practices"
+                ],
+                "content_topic": "environmental"
+            },
+            {
+                "content_id": "UID90",
+                "content_title": "The Importance of Environmental Conservation",
+                "content_url": "www.content.com/uid90",
+                "content_keyword": [
+                    "environmental conservation",
+                    "sustainability",
+                    "ecosystem",
+                    "biodiversity",
+                    "preservation"
+                ],
+                "content_topic": "environmental"
+            },
+            {
+                "content_id": "UID91",
+                "content_title": "Reducing Your Carbon Footprint Through Sustainable Lifestyle Choices",
+                "content_url": "www.content.com/uid91",
+                "content_keyword": [
+                    "carbon footprint",
+                    "sustainability",
+                    "eco-friendly",
+                    "renewable energy",
+                    "green living"
+                ],
+                "content_topic": "environmental"
+            },
+            {
+                "content_id": "UID1",
+                "content_title": "Financial Independence: Strategies and Tips for Young Adults",
+                "content_url": "www.content.com/uid1",
+                "content_keyword": [
+                    "financial independence",
+                    "strategies",
+                    "tips"
+                ],
+                "content_topic": "financial"
+            },
+            {
+                "content_id": "UID2",
+                "content_title": "Teen Investing: Wealth Building, Investment Basics",
+                "content_url": "www.content.com/uid2",
+                "content_keyword": [
+                    "investing",
+                    "wealth building",
+                    "investment"
+                ],
+                "content_topic": "financial"
+            },
+            {
+                "content_id": "UID10",
+                "content_title": "Buying Your First Car",
+                "content_url": "www.content.com/uid10",
+                "content_keyword": [
+                    "car loan",
+                    "financing",
+                    "first car",
+                    "negotiating",
+                    "saving"
+                ],
+                "content_topic": "financial"
+            },
+            {
+                "content_id": "UID15",
+                "content_title": "How to Finad an Internship: Tips, Networking, and Professional Growth",
+                "content_url": "www.content.com/uid15",
+                "content_keyword": [
+                    "internship success",
+                    "tips",
+                    "networking",
+                    "professional growth",
+                    "experiential learning"
+                ],
+                "content_topic": "occupational"
+            },
+            {
+                "content_id": "UID23",
+                "content_title": "Networking Strategies: Building Connections for Career Advancement",
+                "content_url": "www.content.com/uid23",
+                "content_keyword": [
+                    "networking",
+                    "strategies",
+                    "connections",
+                    "career",
+                    "professional",
+                    "relationships",
+                    "mentorship"
+                ],
+                "content_topic": "occupational"
+            },
+            {
+                "content_id": "UID14",
+                "content_title": "Exploring Career Paths: Finding Your Passion",
+                "content_url": "www.content.com/uid14",
+                "content_keyword": [
+                    "career paths",
+                    "passion",
+                    "job options",
+                    "exploration",
+                    "vocational"
+                ],
+                "content_topic": "occupational"
+            },
+            {
+                "content_id": "UID33",
+                "content_title": "How to Make Connections for Meaningful Relationships",
+                "content_url": "www.content.com/uid33",
+                "content_keyword": [
+                    "socializing",
+                    "connections",
+                    "relationships",
+                    "friendships",
+                    "communication"
+                ],
+                "content_topic": "social"
+            },
+            {
+                "content_id": "UID33",
+                "content_title": "How to Make Connections for Meaningful Relationships",
+                "content_url": "www.content.com/uid33",
+                "content_keyword": [
+                    "socializing",
+                    "connections",
+                    "relationships",
+                    "friendships",
+                    "communication"
+                ],
+                "content_topic": "social"
+            },
+            {
+                "content_id": "UID58",
+                "content_title": "Cultivating Gratitude Through Appreciation, Mindfulness, and Positivity",
+                "content_url": "www.content.com/uid58",
+                "content_keyword": [
+                    "gratitude",
+                    "appreciation",
+                    "mindfulness",
+                    "positivity",
+                    "well-being"
+                ],
+                "content_topic": "emotional"
+            },
+            {
+                "content_id": "UID60",
+                "content_title": "Exploring Inner Peace: Meditation, Mindfulness, and Serenity",
+                "content_url": "www.content.com/uid60",
+                "content_keyword": [
+                    "inner peace",
+                    "meditation",
+                    "mindfulness",
+                    "serenity",
+                    "spiritual growth"
+                ],
+                "content_topic": "spiritual"
+            },
+            {
+                "content_id": "UID72",
+                "content_title": "How to be Creative: Imagination, Innovation, and Out-of-the-box Thinking",
+                "content_url": "www.content.com/uid72",
+                "content_keyword": [
+                    "creativity",
+                    "imagination",
+                    "innovation",
+                    "ideas",
+                    "originality"
+                ],
+                "content_topic": "intellectual"
+            },
+            {
+                "content_id": "UID80",
+                "content_title": "Effective Workout Routines for Beginners",
+                "content_url": "www.content.com/uid80",
+                "content_keyword": [
+                    "workout routines",
+                    "fitness",
+                    "exercise",
+                    "beginners",
+                    "healthy lifestyle"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID83",
+                "content_title": "Cardiovascular Fitness: Enhancing Endurance and Stamina",
+                "content_url": "www.content.com/uid83",
+                "content_keyword": [
+                    "cardiovascular",
+                    "fitness",
+                    "endurance",
+                    "stamina",
+                    "aerobic exercises",
+                    "heart health"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID84",
+                "content_title": "The Benefits of Yoga for Physical and Mental Well-being",
+                "content_url": "www.content.com/uid84",
+                "content_keyword": [
+                    "yoga",
+                    "physical well-being",
+                    "mental well-being",
+                    "flexibility",
+                    "stress relief"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID85",
+                "content_title": "Exploring Different Sports for Fun and Fitness",
+                "content_url": "www.content.com/uid85",
+                "content_keyword": [
+                    "sports",
+                    "fitness",
+                    "fun",
+                    "team sports",
+                    "individual sports"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID80",
+                "content_title": "Effective Workout Routines for Beginners",
+                "content_url": "www.content.com/uid80",
+                "content_keyword": [
+                    "workout routines",
+                    "fitness",
+                    "exercise",
+                    "beginners",
+                    "healthy lifestyle"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID83",
+                "content_title": "Cardiovascular Fitness: Enhancing Endurance and Stamina",
+                "content_url": "www.content.com/uid83",
+                "content_keyword": [
+                    "cardiovascular",
+                    "fitness",
+                    "endurance",
+                    "stamina",
+                    "aerobic exercises",
+                    "heart health"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID85",
+                "content_title": "Exploring Different Sports for Fun and Fitness",
+                "content_url": "www.content.com/uid85",
+                "content_keyword": [
+                    "sports",
+                    "fitness",
+                    "fun",
+                    "team sports",
+                    "individual sports"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID87",
+                "content_title": "Enjoying Outdoor Activities for an Active Lifestyle",
+                "content_url": "www.content.com/uid87",
+                "content_keyword": [
+                    "outdoor",
+                    "activities",
+                    "active lifestyle",
+                    "hiking",
+                    "biking",
+                    "adventure",
+                    "sports"
+                ],
+                "content_topic": "physical"
+            },
+            {
+                "content_id": "UID3",
+                "content_title": "How to Manage Your Money by Mastering a Budget",
+                "content_url": "www.content.com/uid3",
+                "content_keyword": [
+                    "budgeting",
+                    "money management",
+                    "personal finance",
+                    "budget"
+                ],
+                "content_topic": "financial"
+            },
+            {
+                "content_id": "UID16",
+                "content_title": "Building a Winning Resume",
+                "content_url": "www.content.com/uid16",
+                "content_keyword": [
+                    "resume building",
+                    "skills",
+                    "experience",
+                    "CV",
+                    "job applications"
+                ],
+                "content_topic": "occupational"
+            },
+            {
+                "content_id": "UID18",
+                "content_title": "Personal Branding: Online Presence and Professional Identity",
+                "content_url": "www.content.com/uid18",
+                "content_keyword": [
+                    "personal branding",
+                    "online presence",
+                    "professional identity",
+                    "reputation",
+                    "networking"
+                ],
+                "content_topic": "occupational"
+            },
+            {
+                "content_id": "UID33",
+                "content_title": "How to Make Connections for Meaningful Relationships",
+                "content_url": "www.content.com/uid33",
+                "content_keyword": [
+                    "socializing",
+                    "connections",
+                    "relationships",
+                    "friendships",
+                    "communication"
+                ],
+                "content_topic": "social"
+            },
+            {
+                "content_id": "UID34",
+                "content_title": "Developing Effective Communication Skills",
+                "content_url": "www.content.com/uid34",
+                "content_keyword": [
+                    "communication skills",
+                    "listening",
+                    "verbal",
+                    "non-verbal",
+                    "expressing ideas"
+                ],
+                "content_topic": "social"
+            }
+        ]
+    }
+]
