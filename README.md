@@ -6,3 +6,5 @@ This API uses a CSV export from an activity in Mural to recommend content on an 
 > The purpose of this project is to demonstrate portable information structures. Only portions of code are functional.
 
 Read more in the [Mural Recommendation API Documentation](https://jesskruse.github.io/Mural-Recommendation-API-Documentation/)
+
+!(images/mural_api_sketch.jpg)
