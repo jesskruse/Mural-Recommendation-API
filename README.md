@@ -7,4 +7,4 @@ This API uses a CSV export from an activity in Mural to recommend content on an 
 
 Read more in the [Mural Recommendation API Documentation](https://jesskruse.github.io/Mural-Recommendation-API-Documentation/)
 
-!(images/mural_api_sketch.jpg)
+![](images/mural_api_sketch.jpg)
